@@ -1,4 +1,8 @@
 # Node.Js-Packages
+## First Step To Initialize NPM In the Project Use command
+```cmd
+npm init -y
+```
 
 | #  | Package   | Description |
 |----|-----------|-------------|

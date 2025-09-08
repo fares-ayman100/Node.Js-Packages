@@ -1,8 +1,5 @@
 # Node.Js-Packages
 ## First Step To Initialize NPM In the Project Use command
-```cmd
-npm init -y
-```
 
 | #  | Package   | Description |
 |----|-----------|-------------|
@@ -25,3 +22,17 @@ npm init -y
 | 17 | jsonwebtoken    | A library to **create, sign, and verify JSON Web Tokens (JWT) for authentication and authorization.** |
 | 18 | multer          | A middleware for handling `multipart/form-data`, **mainly used for file uploads** in Node.js. |
 | 19 | socket.io       | A library that **enables real-time, bidirectional communication** between clients and servers over WebSockets. |
+
+
+
+
+
+
+
+
+### تثبيت أدوات التحقق من الكود (Linting & Formatting)
+
+لتثبيت الأدوات الخاصة بالـ linting و formatting للكود، استخدم الأمر التالي:
+
+```bash
+npm install eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react --save-dev --legacy-peer-deps

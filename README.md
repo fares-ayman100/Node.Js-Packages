@@ -23,6 +23,7 @@
 | 18 | multer          | A middleware for handling `multipart/form-data`, **mainly used for file uploads** in Node.js. |
 | 19 | socket.io       | A library that **enables real-time, bidirectional communication** between clients and servers over WebSockets. |
 | 20 | qs       |A querystring parsing and stringifying library with some added security. =>allows you to create nested objects within your query strings. |
+| 21 | Nodemailer       |is a Node.js package that allows developers to send emails directly from their applications.|
 
 
 

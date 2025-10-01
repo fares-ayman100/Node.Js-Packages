@@ -26,6 +26,8 @@
 | 21 | Nodemailer       |is a Node.js package that allows developers to send emails directly from their applications.|
 | 22 | express-rate-limit       |is a middleware for Express applications that helps protect APIs and servers from being overwhelmed by too many requests from the same IP.|
 | 23 | helmet       |Helmet is a middleware for Express.js that helps secure your web application by setting various HTTP headers.|
+| 24 | express-mongo-sanitize       |A middleware for Express that prevents MongoDB Operator Injection by sanitizing user-supplied data. It removes any keys beginning with $ or containing . to stop malicious query injections.|
+| 25 | xss       |A middleware for Node.js/Express that sanitizes user input coming from POST body, GET queries, and URL parameters. It helps prevent cross-site scripting (XSS) attacks by cleaning malicious HTML or JavaScript code.|
 
 
 

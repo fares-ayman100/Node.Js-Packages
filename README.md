@@ -24,6 +24,7 @@
 | 19 | socket.io       | A library that **enables real-time, bidirectional communication** between clients and servers over WebSockets. |
 | 20 | qs       |A querystring parsing and stringifying library with some added security. =>allows you to create nested objects within your query strings. |
 | 21 | Nodemailer       |is a Node.js package that allows developers to send emails directly from their applications.|
+| 22 | express-rate-limit       |is a middleware for Express applications that helps protect APIs and servers from being overwhelmed by too many requests from the same IP.|
 
 
 

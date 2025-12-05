@@ -29,6 +29,17 @@
 | 24 | express-mongo-sanitize       |A middleware for Express that prevents MongoDB Operator Injection by sanitizing user-supplied data. It removes any keys beginning with $ or containing . to stop malicious query injections.|
 | 25 | xss-clean       |A middleware for Node.js/Express that sanitizes user input coming from POST body, GET queries, and URL parameters. It helps prevent cross-site scripting (XSS) attacks by cleaning malicious HTML or JavaScript code.|
 | 26 | hpp       |is an Express middleware that helps protect against HTTP Parameter Pollution (HPP) attacks|
+| 27 | **axios** | A promise-based HTTP client used to send API requests from both server and browser. Great for making external API calls. |
+| 28 | **compression** | Express middleware that compresses HTTP responses using gzip/deflate to improve performance and reduce payload size. |
+| 29 | **cookie-parser** | Middleware that parses cookies from incoming requests and makes them available via `req.cookies`. Essential when using JWT in cookies. |
+| 30 | **html-to-text** | Converts HTML content into clean plain text. Useful for generating text versions of emails. |
+| 31 | **parcel-bundler** | A zero-config bundler for front-end assets (JS, CSS, images). Simple and fast alternative to Webpack. |
+| 32 | **pug** | A server-side view template engine that compiles Pug templates into HTML. Used to render dynamic pages. |
+| 33 | **resend** | A modern email delivery service that allows sending transactional emails easily through an API. |
+| 34 | **sanitize-html** | Cleans and sanitizes user-submitted HTML to remove unsafe tags and scripts — protects against XSS. |
+| 35 | **sharp** | A high-performance image processing library for resizing, compressing, cropping, and converting images in Node.js. |
+| 36 | **slugify** | Converts strings into URL-friendly slugs. For example: “The Forest Hiker” → `the-forest-hiker`. |
+| 37 | **stripe** | Official Stripe SDK for creating checkout sessions, handling payments, and processing webhooks. |
 
 
 

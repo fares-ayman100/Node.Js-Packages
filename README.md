@@ -40,17 +40,3 @@
 | 35 | **sharp** | A high-performance image processing library for resizing, compressing, cropping, and converting images in Node.js. |
 | 36 | **slugify** | Converts strings into URL-friendly slugs. For example: “The Forest Hiker” → `the-forest-hiker`. |
 | 37 | **stripe** | Official Stripe SDK for creating checkout sessions, handling payments, and processing webhooks. |
-
-
-
-
-
-
-
-
-### تثبيت أدوات التحقق من الكود (Linting & Formatting)
-
-لتثبيت الأدوات الخاصة بالـ linting و formatting للكود، استخدم الأمر التالي:
-
-```bash
-npm install eslint prettier eslint-config-prettier eslint-plugin-prettier eslint-config-airbnb eslint-plugin-node eslint-plugin-import eslint-plugin-jsx-a11y eslint-plugin-react --save-dev --legacy-peer-deps
